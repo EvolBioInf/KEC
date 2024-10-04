@@ -6,6 +6,8 @@
 *.so
 *.dylib
 *.fasta
+!cli/neighbors/*.fasta
+!cli/targets/*.fasta
 *.fna
 *.fsa
 debug
